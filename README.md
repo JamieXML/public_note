@@ -1,2 +1,2 @@
 # public_note
-Please note, this repo is used only for some special testing. Looking for me?  Start from https://twitter.com/JamieXML 
+This account only exists for OASIS official activity.  (I have calved it off from other Git work related to my non-OASIS work.)  Looking for me?  Start from https://twitter.com/JamieXML 
